@@ -11,7 +11,7 @@ if (isset($_POST["reset"])) {
   $cost_min = 0;
   $_SESSION["cost_min"] = $cost_min;
   $_SESSION["player_search"] = '';
-  $player_search='';
+  $player_search = '';
   header("Location: ranking.php"); // ✅ 將網址中的 ?player_search 清除
   exit; // ⛳ 必須中止程式，不然會繼續往下執行
 } elseif (isset($_POST["combined"])) {
@@ -444,7 +444,7 @@ elseif (isset($_SESSION["player_search"])) {
                   <th>勝</th>
                   <th>負</th>
                   <th>勝率</th>
-                  <th>BP</th>
+                  <th>BP(估)</th>
                   <th>玩家</th>";
                   $orderation = 7;
                 } else {
@@ -665,7 +665,10 @@ elseif (isset($_SESSION["player_search"])) {
                   $bp_after = round($bp + 32 * ($result - 1 / (1 + pow(10, (($opponent_bp - $bp) / 500)))), 0);
                   //$bp_after = ceil($bp + 32 * ($result - 1 / (1 + pow(10, (($opponent_bp - $bp) / 400)))));
                   //$rate_color = progress_color($rate);
-                  $sql2 = "SELECT ico,cost,name,level,ico_back FROM leway_db.unlight WHERE id='$e1' or id='$e2'or id='$e3';";
+                  $sql2 = "SELECT ico, cost, name, level, ico_back
+                    FROM leway_db.unlight
+                    WHERE id IN ('$e1', '$e2', '$e3')
+                    ORDER BY FIELD(id, '$e1', '$e2', '$e3');";
                 } else { //3人組合
                   $e3 = $row[2];
                   $win = $row[3];
