@@ -2938,5 +2938,145 @@
         "pending": 1,
         "disconnect": 0,
         "port": 14003
+    },
+    "MiFHRP5sOtViuv9xsd61uvs292y2zTpf": {
+        "room_id": "MiFHRP5sOtViuv9xsd61uvs292y2zTpf",
+        "name": "Quickmatch [COST:57]",
+        "playerA": {
+            "name": "Creeper",
+            "level": 111,
+            "win": 1992,
+            "draw": 4,
+            "lose": 1087,
+            "bp": 1775,
+            "avatar": {
+                "id": "0U0Z0GWSNv6FrtEHVAWg5iCHFhRva907",
+                "base": 0,
+                "eye": 2,
+                "mouth": 0,
+                "hair": 12,
+                "dress": "73_12",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 36,
+                "head": "22_42_75",
+                "arm_right": 12,
+                "arm_left": 117,
+                "face": 28,
+                "other": "34_20"
+            }
+        },
+        "playerB": {
+            "name": "HotaruFutaba",
+            "level": 102,
+            "win": 3897,
+            "draw": 2,
+            "lose": 209,
+            "bp": 1684,
+            "avatar": {
+                "id": "TjPcPMzSWGBJqfHDECm0H9aRN17NdFrG",
+                "base": 0,
+                "eye": 3,
+                "mouth": 0,
+                "hair": 35,
+                "dress": "93",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 105,
+                "head": null,
+                "arm_right": 2,
+                "arm_left": null,
+                "face": 2,
+                "other": "5_34"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc007",
+                "cc008",
+                "cc006"
+            ],
+            "charaIndex": [
+                66,
+                76,
+                55
+            ],
+            "weapon": [
+                13,
+                36,
+                11
+            ],
+            "eventIndex": [
+                66,
+                66,
+                94,
+                94,
+                66,
+                66,
+                18,
+                18,
+                75,
+                66,
+                66,
+                66,
+                39,
+                39,
+                95,
+                95,
+                91,
+                91
+            ],
+            "cost": 57
+        },
+        "deckB": {
+            "chara": [
+                "cc018",
+                "cc029",
+                "cc026"
+            ],
+            "charaIndex": [
+                172,
+                286,
+                258
+            ],
+            "weapon": [
+                13,
+                14,
+                13
+            ],
+            "eventIndex": [
+                91,
+                66,
+                91,
+                91,
+                91,
+                91,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66
+            ],
+            "cost": 57
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "001",
+        "friend": false,
+        "pass": false,
+        "cost": 57,
+        "date": 1744711087585,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14002
     }
 }
