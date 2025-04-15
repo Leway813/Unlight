@@ -1,0 +1,3502 @@
+{
+    "OYXV2mAbH0sqI19QNyCv33C9UTPpLpWt": {
+        "room_id": "OYXV2mAbH0sqI19QNyCv33C9UTPpLpWt",
+        "name": "Quickmatch [COST:71]",
+        "playerA": {
+            "name": "女王大人",
+            "level": 80,
+            "win": 162,
+            "draw": 1,
+            "lose": 146,
+            "bp": 1534,
+            "avatar": {
+                "id": "ZbUkyurv0KEakyXiCDSzRZkr3NOT6Plf",
+                "base": 1,
+                "eye": 7,
+                "mouth": 1,
+                "hair": 71,
+                "dress": "64",
+                "blouse": 20,
+                "skirt": 22,
+                "shoes": 41,
+                "head": "38",
+                "arm_right": 32,
+                "arm_left": null,
+                "face": null,
+                "other": "13"
+            }
+        },
+        "playerB": {
+            "name": "蒼穹之翼",
+            "level": 94,
+            "win": 1187,
+            "draw": 13,
+            "lose": 452,
+            "bp": 1597,
+            "avatar": {
+                "id": "6GiN70yKBZBzeAo2SOgEEXQx0ITI9stq",
+                "base": 2,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 82,
+                "dress": null,
+                "blouse": 30,
+                "skirt": 32,
+                "shoes": 54,
+                "head": "89",
+                "arm_right": 55,
+                "arm_left": null,
+                "face": null,
+                "other": "3_16"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc026",
+                "cc012",
+                "cc030"
+            ],
+            "charaIndex": [
+                257,
+                117,
+                295
+            ],
+            "weapon": [
+                90,
+                48,
+                102
+            ],
+            "eventIndex": [
+                88,
+                23,
+                36,
+                76,
+                76,
+                39,
+                91,
+                55,
+                55,
+                79,
+                79,
+                44,
+                44,
+                44,
+                44,
+                84,
+                39,
+                36
+            ],
+            "cost": 71
+        },
+        "deckB": {
+            "chara": [
+                "cc011",
+                "cc020",
+                "cc009"
+            ],
+            "charaIndex": [
+                107,
+                199,
+                87
+            ],
+            "weapon": [
+                3,
+                188,
+                3
+            ],
+            "eventIndex": [
+                91,
+                51,
+                91,
+                63,
+                85,
+                91,
+                63,
+                63,
+                63,
+                91,
+                94,
+                94,
+                63,
+                63,
+                95,
+                95,
+                95,
+                51
+            ],
+            "cost": 71
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "002",
+        "friend": false,
+        "pass": false,
+        "cost": 71,
+        "date": 1744649919915,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14004
+    },
+    "g0wULRPpMqvJ2jHAjnC9XHQF1MtX10Zc": {
+        "room_id": "g0wULRPpMqvJ2jHAjnC9XHQF1MtX10Zc",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "朝筠",
+            "level": 100,
+            "win": 2896,
+            "draw": 7,
+            "lose": 327,
+            "bp": 1536,
+            "avatar": {
+                "id": "lOrVEvw57fGOTFTDqiCcNwby1CCRq7cq",
+                "base": 0,
+                "eye": 1,
+                "mouth": 0,
+                "hair": 66,
+                "dress": "39",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 40,
+                "head": "49_67",
+                "arm_right": 41,
+                "arm_left": null,
+                "face": null,
+                "other": "5_15_13"
+            }
+        },
+        "playerB": {
+            "name": "吊你老母",
+            "level": 71,
+            "win": 217,
+            "draw": 3,
+            "lose": 266,
+            "bp": 1586,
+            "avatar": {
+                "id": "ZRH5brj3XjmjwIU2BjGbbFsCe2tgKhPt",
+                "base": 2,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 1,
+                "dress": null,
+                "blouse": 0,
+                "skirt": 0,
+                "shoes": null,
+                "head": null,
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc001",
+                "cc015",
+                "cc006"
+            ],
+            "charaIndex": [
+                6,
+                147,
+                58
+            ],
+            "weapon": [
+                null,
+                11,
+                13
+            ],
+            "eventIndex": [
+                63,
+                63,
+                66,
+                94,
+                91,
+                91,
+                66,
+                66,
+                66,
+                66,
+                66,
+                75,
+                66,
+                66,
+                66,
+                95,
+                95,
+                75
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc012",
+                "cc021",
+                "cc002"
+            ],
+            "charaIndex": [
+                117,
+                204,
+                18
+            ],
+            "weapon": [
+                48,
+                9,
+                13
+            ],
+            "eventIndex": [
+                39,
+                30,
+                23,
+                23,
+                23,
+                39,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "002",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744649846091,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14007
+    },
+    "AM5oIv3ypoQ14nTM9aGuPn61jpd20AOi": {
+        "room_id": "AM5oIv3ypoQ14nTM9aGuPn61jpd20AOi",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "OldRio",
+            "level": 71,
+            "win": 456,
+            "draw": 1,
+            "lose": 253,
+            "bp": 1442,
+            "avatar": {
+                "id": "kq41ImR4GAgoib5kGMgLgpafGOAECQc5",
+                "base": 0,
+                "eye": 12,
+                "mouth": 0,
+                "hair": 45,
+                "dress": "10",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 40,
+                "head": "30",
+                "arm_right": 34,
+                "arm_left": 117,
+                "face": null,
+                "other": "15"
+            }
+        },
+        "playerB": {
+            "name": "尼亞oo",
+            "level": 113,
+            "win": 899,
+            "draw": 3,
+            "lose": 601,
+            "bp": 1468,
+            "avatar": {
+                "id": "3CwCA0Roe4qh0phseDnhGN5gyggbPwJd",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 81,
+                "dress": "50",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 53,
+                "head": "71",
+                "arm_right": 42,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_5_17"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc018",
+                "cc029",
+                "cc026"
+            ],
+            "charaIndex": [
+                176,
+                284,
+                257
+            ],
+            "weapon": [
+                0,
+                3,
+                188
+            ],
+            "eventIndex": [
+                27,
+                51,
+                23,
+                84,
+                15,
+                91,
+                23,
+                80,
+                23,
+                23,
+                30,
+                23,
+                23,
+                23,
+                9,
+                23,
+                33,
+                33
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc009",
+                "cc008",
+                "cc002"
+            ],
+            "charaIndex": [
+                86,
+                77,
+                18
+            ],
+            "weapon": [
+                null,
+                36,
+                188
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "008",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744649767604,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14003
+    },
+    "PyxLg6zwWTax58G7IwXQj6HTeNF5xxC9": {
+        "room_id": "PyxLg6zwWTax58G7IwXQj6HTeNF5xxC9",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "斯洛斯布洛克",
+            "level": 90,
+            "win": 627,
+            "draw": 13,
+            "lose": 571,
+            "bp": 1543,
+            "avatar": {
+                "id": "OPJMk5SATKytglZD1ofcRw98tERs9pFN",
+                "base": 2,
+                "eye": 7,
+                "mouth": 0,
+                "hair": 119,
+                "dress": "8",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 56,
+                "head": "49_72",
+                "arm_right": 43,
+                "arm_left": null,
+                "face": null,
+                "other": "17_15_34_18"
+            }
+        },
+        "playerB": {
+            "name": "mayya",
+            "level": 75,
+            "win": 556,
+            "draw": 11,
+            "lose": 406,
+            "bp": 1504,
+            "avatar": {
+                "id": "9RYmEnoygu6rq93tBMc0CdEZ8aV34oTC",
+                "base": 0,
+                "eye": 8,
+                "mouth": 2,
+                "hair": 120,
+                "dress": "97",
+                "blouse": null,
+                "skirt": 22,
+                "shoes": 56,
+                "head": "156_36",
+                "arm_right": 25,
+                "arm_left": 117,
+                "face": 10,
+                "other": "17_13_18_19"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc021",
+                "cc015",
+                "cc012"
+            ],
+            "charaIndex": [
+                203,
+                147,
+                118
+            ],
+            "weapon": [
+                178,
+                57,
+                48
+            ],
+            "eventIndex": [
+                78,
+                78,
+                78,
+                91,
+                44,
+                44,
+                78,
+                78,
+                78,
+                44,
+                66,
+                66,
+                44,
+                44,
+                44,
+                44,
+                44,
+                44
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc012",
+                "cc011",
+                "cc026"
+            ],
+            "charaIndex": [
+                118,
+                105,
+                255
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                23,
+                30,
+                2,
+                79,
+                79,
+                23,
+                15,
+                67,
+                77,
+                84,
+                2,
+                91,
+                44,
+                44,
+                44,
+                75,
+                75,
+                66
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "008",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744645585082,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14002
+    },
+    "kEppXv5c913RfA0xHWnYsCIRh2hRnNpH": {
+        "room_id": "kEppXv5c913RfA0xHWnYsCIRh2hRnNpH",
+        "name": "Quickmatch [COST:90+]",
+        "playerA": {
+            "name": "艾雷島威士忌",
+            "level": 111,
+            "win": 6399,
+            "draw": 0,
+            "lose": 479,
+            "bp": 1603,
+            "avatar": {
+                "id": "MAy6lypsjAR42fJHymE8fHJPZLQAkTpD",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 74,
+                "dress": "74",
+                "blouse": 25,
+                "skirt": 27,
+                "shoes": 48,
+                "head": "30",
+                "arm_right": 0,
+                "arm_left": null,
+                "face": 9,
+                "other": "15_17"
+            }
+        },
+        "playerB": {
+            "name": "羅馬",
+            "level": 129,
+            "win": 1961,
+            "draw": 0,
+            "lose": 501,
+            "bp": 1515,
+            "avatar": {
+                "id": "DAnAilFXCbbU92gVQDJcKrXRdTgllvud",
+                "base": 0,
+                "eye": 6,
+                "mouth": 2,
+                "hair": 77,
+                "dress": "64",
+                "blouse": 32,
+                "skirt": 25,
+                "shoes": 47,
+                "head": "26_48",
+                "arm_right": 3,
+                "arm_left": null,
+                "face": 27,
+                "other": "17_1_2_34_18_13_12_16_5_15_19"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc003",
+                "cc010",
+                "cc024"
+            ],
+            "charaIndex": [
+                29,
+                99,
+                239
+            ],
+            "weapon": [
+                23,
+                42,
+                86
+            ],
+            "eventIndex": [
+                17,
+                67,
+                67,
+                67,
+                68,
+                85,
+                17,
+                17,
+                67,
+                68,
+                80,
+                80,
+                16,
+                16,
+                67,
+                80,
+                80,
+                85
+            ],
+            "cost": 109
+        },
+        "deckB": {
+            "chara": [
+                "cc029",
+                "cc023",
+                "cc027"
+            ],
+            "charaIndex": [
+                289,
+                229,
+                269
+            ],
+            "weapon": [
+                14,
+                83,
+                95
+            ],
+            "eventIndex": [
+                17,
+                65,
+                70,
+                80,
+                80,
+                85,
+                41,
+                77,
+                77,
+                70,
+                80,
+                80,
+                14,
+                17,
+                53,
+                53,
+                80,
+                85
+            ],
+            "cost": 110
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "000",
+        "friend": false,
+        "pass": false,
+        "cost": 109,
+        "date": 1744649814280,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14003
+    },
+    "Cn3dZtrfB01xIVRuKckvFrRHJkYKgCup": {
+        "room_id": "Cn3dZtrfB01xIVRuKckvFrRHJkYKgCup",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "朝筠",
+            "level": 100,
+            "win": 2896,
+            "draw": 7,
+            "lose": 328,
+            "bp": 1522,
+            "avatar": {
+                "id": "lOrVEvw57fGOTFTDqiCcNwby1CCRq7cq",
+                "base": 0,
+                "eye": 1,
+                "mouth": 0,
+                "hair": 66,
+                "dress": "39",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 40,
+                "head": "49_67",
+                "arm_right": 41,
+                "arm_left": null,
+                "face": null,
+                "other": "5_15_13"
+            }
+        },
+        "playerB": {
+            "name": "吊你老母",
+            "level": 71,
+            "win": 218,
+            "draw": 3,
+            "lose": 266,
+            "bp": 1600,
+            "avatar": {
+                "id": "ZRH5brj3XjmjwIU2BjGbbFsCe2tgKhPt",
+                "base": 2,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 1,
+                "dress": null,
+                "blouse": 0,
+                "skirt": 0,
+                "shoes": null,
+                "head": null,
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc001",
+                "cc015",
+                "cc006"
+            ],
+            "charaIndex": [
+                6,
+                147,
+                58
+            ],
+            "weapon": [
+                null,
+                11,
+                13
+            ],
+            "eventIndex": [
+                63,
+                63,
+                66,
+                94,
+                91,
+                91,
+                66,
+                66,
+                66,
+                66,
+                66,
+                75,
+                66,
+                66,
+                66,
+                95,
+                95,
+                75
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc012",
+                "cc021",
+                "cc002"
+            ],
+            "charaIndex": [
+                117,
+                204,
+                18
+            ],
+            "weapon": [
+                48,
+                9,
+                13
+            ],
+            "eventIndex": [
+                39,
+                30,
+                23,
+                23,
+                23,
+                39,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 1,
+        "stage": "000",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744650963836,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14007
+    },
+    "uBVeRfGr5oztEslZLAd2D4LqjmLb0vBl": {
+        "room_id": "uBVeRfGr5oztEslZLAd2D4LqjmLb0vBl",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "尼亞oo",
+            "level": 113,
+            "win": 900,
+            "draw": 3,
+            "lose": 601,
+            "bp": 1483,
+            "avatar": {
+                "id": "3CwCA0Roe4qh0phseDnhGN5gyggbPwJd",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 81,
+                "dress": "50",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 53,
+                "head": "71",
+                "arm_right": 42,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_5_17"
+            }
+        },
+        "playerB": {
+            "name": "Nuway",
+            "level": 61,
+            "win": 96,
+            "draw": 0,
+            "lose": 116,
+            "bp": 1484,
+            "avatar": {
+                "id": "aDr2p5VU2Jigsx32kzjiBhQ0EZqSqYVL",
+                "base": 2,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 28,
+                "dress": "95",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 30,
+                "head": "157",
+                "arm_right": 35,
+                "arm_left": null,
+                "face": null,
+                "other": "17"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc009",
+                "cc008",
+                "cc002"
+            ],
+            "charaIndex": [
+                86,
+                77,
+                18
+            ],
+            "weapon": [
+                null,
+                36,
+                188
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc028",
+                "cc015",
+                "cc022"
+            ],
+            "charaIndex": [
+                274,
+                146,
+                214
+            ],
+            "weapon": [
+                98,
+                59,
+                13
+            ],
+            "eventIndex": [
+                12,
+                79,
+                2,
+                78,
+                78,
+                66,
+                54,
+                54,
+                54,
+                79,
+                66,
+                66,
+                33,
+                55,
+                2,
+                2,
+                2,
+                12
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "004",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744650972139,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14010
+    },
+    "uBiYULtNyMRqMAQEeTftiljBJj1ABBVL": {
+        "room_id": "uBiYULtNyMRqMAQEeTftiljBJj1ABBVL",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "南瓜剪刀刀刀",
+            "level": 30,
+            "win": 3,
+            "draw": 0,
+            "lose": 54,
+            "bp": 1438,
+            "avatar": {
+                "id": "Yflpx9zEsjX6lP2epky6BiPQUeSXlguR",
+                "base": 0,
+                "eye": 7,
+                "mouth": 0,
+                "hair": 11,
+                "dress": "5",
+                "blouse": 0,
+                "skirt": null,
+                "shoes": null,
+                "head": "1",
+                "arm_right": 38,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "playerB": {
+            "name": "封嵐",
+            "level": 72,
+            "win": 204,
+            "draw": 0,
+            "lose": 508,
+            "bp": 1444,
+            "avatar": {
+                "id": "znHG2hk8cXcLcp65QOEdpQz58wSGAZ1E",
+                "base": 0,
+                "eye": 12,
+                "mouth": 1,
+                "hair": 69,
+                "dress": null,
+                "blouse": 20,
+                "skirt": 22,
+                "shoes": 106,
+                "head": "73",
+                "arm_right": 45,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc022",
+                "cc012",
+                "cc030"
+            ],
+            "charaIndex": [
+                213,
+                116,
+                293
+            ],
+            "weapon": [
+                0,
+                null,
+                102
+            ],
+            "eventIndex": [
+                25,
+                91,
+                83,
+                23,
+                23,
+                54,
+                23,
+                1,
+                2,
+                78,
+                23,
+                2,
+                66,
+                55,
+                22,
+                1,
+                23,
+                44
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc028",
+                "cc029",
+                "cc024"
+            ],
+            "charaIndex": [
+                272,
+                282,
+                235
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                66,
+                2,
+                66,
+                66,
+                66,
+                66,
+                2,
+                2,
+                2,
+                2,
+                66,
+                66
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "006",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744650943150,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14007
+    },
+    "6UaKhqLOoyXjn3T22WJCnC2XgItYUvUc": {
+        "room_id": "6UaKhqLOoyXjn3T22WJCnC2XgItYUvUc",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "尼亞oo",
+            "level": 113,
+            "win": 901,
+            "draw": 3,
+            "lose": 601,
+            "bp": 1499,
+            "avatar": {
+                "id": "3CwCA0Roe4qh0phseDnhGN5gyggbPwJd",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 81,
+                "dress": "50",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 53,
+                "head": "71",
+                "arm_right": 42,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_5_17"
+            }
+        },
+        "playerB": {
+            "name": "斯洛斯布洛克",
+            "level": 90,
+            "win": 627,
+            "draw": 13,
+            "lose": 572,
+            "bp": 1526,
+            "avatar": {
+                "id": "OPJMk5SATKytglZD1ofcRw98tERs9pFN",
+                "base": 2,
+                "eye": 7,
+                "mouth": 0,
+                "hair": 119,
+                "dress": "8",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 56,
+                "head": "49_72",
+                "arm_right": 43,
+                "arm_left": null,
+                "face": null,
+                "other": "17_15_34_18"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc009",
+                "cc008",
+                "cc002"
+            ],
+            "charaIndex": [
+                86,
+                77,
+                18
+            ],
+            "weapon": [
+                null,
+                36,
+                188
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc021",
+                "cc015",
+                "cc012"
+            ],
+            "charaIndex": [
+                203,
+                147,
+                118
+            ],
+            "weapon": [
+                178,
+                57,
+                48
+            ],
+            "eventIndex": [
+                78,
+                78,
+                78,
+                91,
+                44,
+                44,
+                78,
+                78,
+                78,
+                44,
+                66,
+                66,
+                44,
+                44,
+                44,
+                44,
+                44,
+                44
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "008",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744651405825,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14002
+    },
+    "GVf58dTOvdETkLfbcP887EjW2BI2pdMD": {
+        "room_id": "GVf58dTOvdETkLfbcP887EjW2BI2pdMD",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "朝筠",
+            "level": 100,
+            "win": 2896,
+            "draw": 7,
+            "lose": 328,
+            "bp": 1522,
+            "avatar": {
+                "id": "lOrVEvw57fGOTFTDqiCcNwby1CCRq7cq",
+                "base": 0,
+                "eye": 1,
+                "mouth": 0,
+                "hair": 66,
+                "dress": "39",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 40,
+                "head": "49_67",
+                "arm_right": 41,
+                "arm_left": null,
+                "face": null,
+                "other": "5_15_13"
+            }
+        },
+        "playerB": {
+            "name": "YI-HSIN",
+            "level": 68,
+            "win": 291,
+            "draw": 4,
+            "lose": 296,
+            "bp": 1601,
+            "avatar": {
+                "id": "VENzuGc1Xj2pqpfi312SVcmX5ecWXwSu",
+                "base": 1,
+                "eye": 7,
+                "mouth": 2,
+                "hair": 65,
+                "dress": null,
+                "blouse": 25,
+                "skirt": 17,
+                "shoes": 42,
+                "head": "50",
+                "arm_right": 35,
+                "arm_left": 117,
+                "face": null,
+                "other": "17_1_16_13"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc026",
+                "cc029",
+                "cc021"
+            ],
+            "charaIndex": [
+                253,
+                284,
+                203
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                12,
+                63,
+                63,
+                91,
+                91,
+                18,
+                75,
+                94,
+                95,
+                18,
+                18,
+                18,
+                75,
+                66,
+                95,
+                15,
+                15,
+                15
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc022",
+                "cc030",
+                "cc006"
+            ],
+            "charaIndex": [
+                214,
+                293,
+                54
+            ],
+            "weapon": [
+                188,
+                178,
+                6
+            ],
+            "eventIndex": [
+                2,
+                23,
+                84,
+                91,
+                91,
+                23,
+                2,
+                23,
+                23,
+                23,
+                23,
+                23,
+                44,
+                83,
+                83,
+                23,
+                23,
+                23
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "007",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744651433834,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14002
+    },
+    "m02kV6LzY6eNxfhjVWtiaYwkeJlRfiIt": {
+        "room_id": "m02kV6LzY6eNxfhjVWtiaYwkeJlRfiIt",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "身米寸青",
+            "level": 120,
+            "win": 1669,
+            "draw": 10,
+            "lose": 239,
+            "bp": 1786,
+            "avatar": {
+                "id": "pS6aEy0ua8TcrrLgL8NyRd3rpEPtPbJV",
+                "base": 0,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 77,
+                "dress": "72_40",
+                "blouse": 20,
+                "skirt": null,
+                "shoes": 105,
+                "head": "49",
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": "16_15_5_2_17_18_12"
+            }
+        },
+        "playerB": {
+            "name": "芭樂的傳奇",
+            "level": 110,
+            "win": 1869,
+            "draw": 22,
+            "lose": 1063,
+            "bp": 1861,
+            "avatar": {
+                "id": "5DOpE4IkeJNmW6dHc6ADOgWsfH18I6hd",
+                "base": 0,
+                "eye": 5,
+                "mouth": 0,
+                "hair": 68,
+                "dress": "72_2",
+                "blouse": null,
+                "skirt": 21,
+                "shoes": 105,
+                "head": "27_157",
+                "arm_right": 38,
+                "arm_left": 117,
+                "face": 0,
+                "other": "17_34_15_16_13_18_12"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc009",
+                "cc005",
+                "cc024"
+            ],
+            "charaIndex": [
+                87,
+                43,
+                233
+            ],
+            "weapon": [
+                9,
+                9,
+                188
+            ],
+            "eventIndex": [
+                75,
+                18,
+                85,
+                95,
+                95,
+                91,
+                15,
+                94,
+                95,
+                63,
+                63,
+                12,
+                33,
+                15,
+                94,
+                12,
+                12,
+                33
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc016",
+                "cc005",
+                "cc031"
+            ],
+            "charaIndex": [
+                156,
+                43,
+                303
+            ],
+            "weapon": [
+                188,
+                9,
+                11
+            ],
+            "eventIndex": [
+                63,
+                63,
+                94,
+                85,
+                91,
+                63,
+                63,
+                94,
+                95,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "010",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744651591104,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14005
+    },
+    "VTSrTMVZ1c4DZsPrduUtwIL5YXPgON1b": {
+        "room_id": "VTSrTMVZ1c4DZsPrduUtwIL5YXPgON1b",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "斯洛斯布洛克",
+            "level": 90,
+            "win": 627,
+            "draw": 13,
+            "lose": 573,
+            "bp": 1509,
+            "avatar": {
+                "id": "OPJMk5SATKytglZD1ofcRw98tERs9pFN",
+                "base": 2,
+                "eye": 7,
+                "mouth": 0,
+                "hair": 119,
+                "dress": "8",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 56,
+                "head": "49_72",
+                "arm_right": 43,
+                "arm_left": null,
+                "face": null,
+                "other": "17_15_34_18"
+            }
+        },
+        "playerB": {
+            "name": "尼亞oo",
+            "level": 113,
+            "win": 902,
+            "draw": 3,
+            "lose": 601,
+            "bp": 1516,
+            "avatar": {
+                "id": "3CwCA0Roe4qh0phseDnhGN5gyggbPwJd",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 81,
+                "dress": "50",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 53,
+                "head": "71",
+                "arm_right": 42,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_5_17"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc021",
+                "cc015",
+                "cc012"
+            ],
+            "charaIndex": [
+                203,
+                147,
+                118
+            ],
+            "weapon": [
+                178,
+                57,
+                48
+            ],
+            "eventIndex": [
+                78,
+                78,
+                78,
+                91,
+                44,
+                44,
+                78,
+                78,
+                78,
+                44,
+                66,
+                66,
+                44,
+                44,
+                44,
+                44,
+                44,
+                44
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc009",
+                "cc008",
+                "cc002"
+            ],
+            "charaIndex": [
+                86,
+                77,
+                18
+            ],
+            "weapon": [
+                null,
+                36,
+                188
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "003",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744652427720,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14002
+    },
+    "vHnI5ULfVljX2nOKhvUdWRLbDSGGlUtH": {
+        "room_id": "vHnI5ULfVljX2nOKhvUdWRLbDSGGlUtH",
+        "name": "Quickmatch [COST:90+]",
+        "playerA": {
+            "name": "小狐蒙",
+            "level": 94,
+            "win": 1654,
+            "draw": 0,
+            "lose": 285,
+            "bp": 1531,
+            "avatar": {
+                "id": "VmRbRLBfXbcFGAd8ApNKNS0f56JG5R3i",
+                "base": 0,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 62,
+                "dress": null,
+                "blouse": 18,
+                "skirt": 24,
+                "shoes": 37,
+                "head": "74",
+                "arm_right": 17,
+                "arm_left": 117,
+                "face": null,
+                "other": "34"
+            }
+        },
+        "playerB": {
+            "name": "隔壁老楊",
+            "level": 98,
+            "win": 1406,
+            "draw": 0,
+            "lose": 93,
+            "bp": 1500,
+            "avatar": {
+                "id": "rm3YmU9fs2GAPkrgoK9CppBVd7jFuWkP",
+                "base": 1,
+                "eye": 8,
+                "mouth": 2,
+                "hair": 63,
+                "dress": null,
+                "blouse": 12,
+                "skirt": 13,
+                "shoes": 32,
+                "head": "80",
+                "arm_right": 46,
+                "arm_left": null,
+                "face": null,
+                "other": "34_12"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc017",
+                "cc024",
+                "cc009"
+            ],
+            "charaIndex": [
+                169,
+                239,
+                89
+            ],
+            "weapon": [
+                65,
+                86,
+                null
+            ],
+            "eventIndex": [
+                5,
+                2,
+                2,
+                null,
+                80,
+                2,
+                5,
+                6,
+                2,
+                null,
+                null,
+                12,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "cost": 91
+        },
+        "deckB": {
+            "chara": [
+                "cc017",
+                "cc027",
+                "cc019"
+            ],
+            "charaIndex": [
+                168,
+                268,
+                189
+            ],
+            "weapon": [
+                63,
+                95,
+                71
+            ],
+            "eventIndex": [
+                5,
+                2,
+                2,
+                80,
+                80,
+                15,
+                5,
+                5,
+                2,
+                2,
+                12,
+                12,
+                16,
+                16,
+                32,
+                32,
+                2,
+                2
+            ],
+            "cost": 91
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "003",
+        "friend": false,
+        "pass": false,
+        "cost": 91,
+        "date": 1744652624787,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14007
+    },
+    "eMU8Lc95XesrpOqORQ8lVyOY790tkwuu": {
+        "room_id": "eMU8Lc95XesrpOqORQ8lVyOY790tkwuu",
+        "name": "Quickmatch [COST:90+]",
+        "playerA": {
+            "name": "隔壁老楊",
+            "level": 98,
+            "win": 1407,
+            "draw": 0,
+            "lose": 93,
+            "bp": 1517,
+            "avatar": {
+                "id": "rm3YmU9fs2GAPkrgoK9CppBVd7jFuWkP",
+                "base": 1,
+                "eye": 8,
+                "mouth": 2,
+                "hair": 63,
+                "dress": null,
+                "blouse": 12,
+                "skirt": 13,
+                "shoes": 32,
+                "head": "80",
+                "arm_right": 46,
+                "arm_left": null,
+                "face": null,
+                "other": "34_12"
+            }
+        },
+        "playerB": {
+            "name": "小狐蒙",
+            "level": 94,
+            "win": 1654,
+            "draw": 0,
+            "lose": 286,
+            "bp": 1514,
+            "avatar": {
+                "id": "VmRbRLBfXbcFGAd8ApNKNS0f56JG5R3i",
+                "base": 0,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 62,
+                "dress": null,
+                "blouse": 18,
+                "skirt": 24,
+                "shoes": 37,
+                "head": "74",
+                "arm_right": 17,
+                "arm_left": 117,
+                "face": null,
+                "other": "34"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc017",
+                "cc027",
+                "cc019"
+            ],
+            "charaIndex": [
+                168,
+                268,
+                189
+            ],
+            "weapon": [
+                63,
+                95,
+                71
+            ],
+            "eventIndex": [
+                5,
+                2,
+                2,
+                80,
+                80,
+                15,
+                5,
+                5,
+                2,
+                2,
+                12,
+                12,
+                16,
+                16,
+                32,
+                32,
+                2,
+                2
+            ],
+            "cost": 91
+        },
+        "deckB": {
+            "chara": [
+                "cc017",
+                "cc024",
+                "cc009"
+            ],
+            "charaIndex": [
+                169,
+                239,
+                89
+            ],
+            "weapon": [
+                65,
+                86,
+                null
+            ],
+            "eventIndex": [
+                5,
+                2,
+                2,
+                null,
+                80,
+                2,
+                5,
+                6,
+                2,
+                null,
+                null,
+                12,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "cost": 91
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "005",
+        "friend": false,
+        "pass": false,
+        "cost": 91,
+        "date": 1744652732544,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14007
+    },
+    "BZf89MgP86CtFvxy3TrBULTUf8zpVTi1": {
+        "room_id": "BZf89MgP86CtFvxy3TrBULTUf8zpVTi1",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "身米寸青",
+            "level": 120,
+            "win": 1669,
+            "draw": 10,
+            "lose": 240,
+            "bp": 1773,
+            "avatar": {
+                "id": "pS6aEy0ua8TcrrLgL8NyRd3rpEPtPbJV",
+                "base": 0,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 77,
+                "dress": "72_40",
+                "blouse": 20,
+                "skirt": null,
+                "shoes": 105,
+                "head": "49",
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": "16_15_5_2_17_18_12"
+            }
+        },
+        "playerB": {
+            "name": "芭樂的傳奇",
+            "level": 110,
+            "win": 1870,
+            "draw": 22,
+            "lose": 1063,
+            "bp": 1874,
+            "avatar": {
+                "id": "5DOpE4IkeJNmW6dHc6ADOgWsfH18I6hd",
+                "base": 0,
+                "eye": 5,
+                "mouth": 0,
+                "hair": 68,
+                "dress": "72_2",
+                "blouse": null,
+                "skirt": 21,
+                "shoes": 105,
+                "head": "27_157",
+                "arm_right": 38,
+                "arm_left": 117,
+                "face": 0,
+                "other": "17_34_15_16_13_18_12"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc009",
+                "cc005",
+                "cc024"
+            ],
+            "charaIndex": [
+                87,
+                43,
+                233
+            ],
+            "weapon": [
+                9,
+                9,
+                188
+            ],
+            "eventIndex": [
+                75,
+                18,
+                85,
+                95,
+                95,
+                91,
+                15,
+                94,
+                95,
+                63,
+                63,
+                12,
+                33,
+                15,
+                94,
+                12,
+                12,
+                33
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc016",
+                "cc005",
+                "cc031"
+            ],
+            "charaIndex": [
+                156,
+                43,
+                303
+            ],
+            "weapon": [
+                188,
+                9,
+                11
+            ],
+            "eventIndex": [
+                63,
+                63,
+                94,
+                85,
+                91,
+                63,
+                63,
+                94,
+                95,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63,
+                63
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "001",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744652936738,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14005
+    },
+    "kSICdyTmUb8piJuC7tzo2w9bOucmQg4x": {
+        "room_id": "kSICdyTmUb8piJuC7tzo2w9bOucmQg4x",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "Enternight",
+            "level": 76,
+            "win": 431,
+            "draw": 0,
+            "lose": 78,
+            "bp": 1467,
+            "avatar": {
+                "id": "SYoy6lACjyrgKkSomLkQkWYAIXDnZd0H",
+                "base": 0,
+                "eye": 6,
+                "mouth": 0,
+                "hair": 120,
+                "dress": "92",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 49,
+                "head": "76",
+                "arm_right": 12,
+                "arm_left": null,
+                "face": 12,
+                "other": "12_34"
+            }
+        },
+        "playerB": {
+            "name": "尼亞oo",
+            "level": 113,
+            "win": 903,
+            "draw": 3,
+            "lose": 601,
+            "bp": 1532,
+            "avatar": {
+                "id": "3CwCA0Roe4qh0phseDnhGN5gyggbPwJd",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 81,
+                "dress": "50",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 53,
+                "head": "71",
+                "arm_right": 42,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_5_17"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc018",
+                "cc006",
+                "cc029"
+            ],
+            "charaIndex": [
+                174,
+                54,
+                284
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                41,
+                79,
+                84,
+                66,
+                66,
+                63,
+                76,
+                84,
+                84,
+                15,
+                15,
+                15,
+                76,
+                94,
+                83,
+                36,
+                67,
+                67
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc009",
+                "cc008",
+                "cc002"
+            ],
+            "charaIndex": [
+                86,
+                77,
+                18
+            ],
+            "weapon": [
+                null,
+                36,
+                188
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "008",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744653405289,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14003
+    },
+    "3x2hGCHpf62hfxbJnEjsCwAiLQFjOod9": {
+        "room_id": "3x2hGCHpf62hfxbJnEjsCwAiLQFjOod9",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "Enternight",
+            "level": 76,
+            "win": 431,
+            "draw": 0,
+            "lose": 79,
+            "bp": 1453,
+            "avatar": {
+                "id": "SYoy6lACjyrgKkSomLkQkWYAIXDnZd0H",
+                "base": 0,
+                "eye": 6,
+                "mouth": 0,
+                "hair": 120,
+                "dress": "92",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 49,
+                "head": "76",
+                "arm_right": 12,
+                "arm_left": null,
+                "face": 12,
+                "other": "12_34"
+            }
+        },
+        "playerB": {
+            "name": "斯洛斯布洛克",
+            "level": 90,
+            "win": 627,
+            "draw": 13,
+            "lose": 574,
+            "bp": 1493,
+            "avatar": {
+                "id": "OPJMk5SATKytglZD1ofcRw98tERs9pFN",
+                "base": 2,
+                "eye": 7,
+                "mouth": 0,
+                "hair": 119,
+                "dress": "8",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 56,
+                "head": "49_72",
+                "arm_right": 43,
+                "arm_left": null,
+                "face": null,
+                "other": "17_15_34_18"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc030",
+                "cc002",
+                "cc009"
+            ],
+            "charaIndex": [
+                294,
+                18,
+                87
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                66,
+                66,
+                66,
+                75,
+                75,
+                9,
+                66,
+                42,
+                42,
+                18,
+                33,
+                33,
+                42,
+                42,
+                42,
+                83,
+                39,
+                39
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc026",
+                "cc029",
+                "cc027"
+            ],
+            "charaIndex": [
+                257,
+                288,
+                263
+            ],
+            "weapon": [
+                9,
+                10,
+                188
+            ],
+            "eventIndex": [
+                78,
+                78,
+                78,
+                9,
+                75,
+                75,
+                66,
+                66,
+                80,
+                80,
+                83,
+                66,
+                66,
+                66,
+                66,
+                66,
+                18,
+                91
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "004",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744653946414,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14002
+    },
+    "H2Jl0PtOLj0Pf2NomCb3BNn9Vh1XuGdA": {
+        "room_id": "H2Jl0PtOLj0Pf2NomCb3BNn9Vh1XuGdA",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "Pops",
+            "level": 91,
+            "win": 3032,
+            "draw": 0,
+            "lose": 540,
+            "bp": 1589,
+            "avatar": {
+                "id": "CKs1q8uGZU0xjKeNVGNDQIutoBfsbkHI",
+                "base": 0,
+                "eye": 12,
+                "mouth": 0,
+                "hair": 64,
+                "dress": null,
+                "blouse": 21,
+                "skirt": 23,
+                "shoes": 42,
+                "head": "23_40",
+                "arm_right": 41,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_17"
+            }
+        },
+        "playerB": {
+            "name": "義大利甜甜圈",
+            "level": 71,
+            "win": 496,
+            "draw": 0,
+            "lose": 45,
+            "bp": 1522,
+            "avatar": {
+                "id": "W1jwFWhKqQgeoE5LLC748x5cE4JDJ7sC",
+                "base": 0,
+                "eye": 13,
+                "mouth": 0,
+                "hair": 75,
+                "dress": "48",
+                "blouse": null,
+                "skirt": 27,
+                "shoes": 45,
+                "head": "67_50",
+                "arm_right": 42,
+                "arm_left": null,
+                "face": null,
+                "other": "17"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc005",
+                "cc001",
+                "cc010"
+            ],
+            "charaIndex": [
+                42,
+                2,
+                99
+            ],
+            "weapon": [
+                13,
+                11,
+                9
+            ],
+            "eventIndex": [
+                91,
+                39,
+                39,
+                66,
+                66,
+                66,
+                2,
+                2,
+                91,
+                66,
+                75,
+                2,
+                12,
+                12,
+                91,
+                2,
+                33,
+                23
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc009",
+                "cc024",
+                "cc026"
+            ],
+            "charaIndex": [
+                86,
+                237,
+                257
+            ],
+            "weapon": [
+                null,
+                188,
+                null
+            ],
+            "eventIndex": [
+                77,
+                33,
+                83,
+                9,
+                9,
+                2,
+                2,
+                2,
+                2,
+                79,
+                79,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "010",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744654908281,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14006
+    },
+    "zyn95kiZRfxtYnG05kmB8sMR3BtUVmqW": {
+        "room_id": "zyn95kiZRfxtYnG05kmB8sMR3BtUVmqW",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "Pops",
+            "level": 91,
+            "win": 3032,
+            "draw": 0,
+            "lose": 541,
+            "bp": 1571,
+            "avatar": {
+                "id": "CKs1q8uGZU0xjKeNVGNDQIutoBfsbkHI",
+                "base": 0,
+                "eye": 12,
+                "mouth": 0,
+                "hair": 64,
+                "dress": null,
+                "blouse": 21,
+                "skirt": 23,
+                "shoes": 42,
+                "head": "23_40",
+                "arm_right": 41,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_17"
+            }
+        },
+        "playerB": {
+            "name": "cu4733",
+            "level": 68,
+            "win": 288,
+            "draw": 0,
+            "lose": 497,
+            "bp": 1523,
+            "avatar": {
+                "id": "Vi6ucMqcoxyL9sHVLqU6UZoM3G7EvfHn",
+                "base": 0,
+                "eye": 1,
+                "mouth": 0,
+                "hair": 0,
+                "dress": null,
+                "blouse": 0,
+                "skirt": 0,
+                "shoes": null,
+                "head": null,
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc005",
+                "cc001",
+                "cc010"
+            ],
+            "charaIndex": [
+                42,
+                2,
+                99
+            ],
+            "weapon": [
+                13,
+                11,
+                9
+            ],
+            "eventIndex": [
+                91,
+                39,
+                39,
+                66,
+                66,
+                66,
+                2,
+                2,
+                91,
+                66,
+                75,
+                2,
+                12,
+                12,
+                91,
+                2,
+                33,
+                23
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc008",
+                "cc001",
+                "cc004"
+            ],
+            "charaIndex": [
+                76,
+                6,
+                37
+            ],
+            "weapon": [
+                3,
+                16,
+                188
+            ],
+            "eventIndex": [
+                91,
+                23,
+                78,
+                78,
+                78,
+                78,
+                54,
+                54,
+                54,
+                23,
+                23,
+                23,
+                2,
+                15,
+                33,
+                23,
+                2,
+                2
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "005",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744657500522,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14004
+    },
+    "UOERw0vh1XlMaCK1t1Xl1EHr3OAk6aQ4": {
+        "room_id": "UOERw0vh1XlMaCK1t1Xl1EHr3OAk6aQ4",
+        "name": "Quickmatch [COST:65]",
+        "playerA": {
+            "name": "尼亞oo",
+            "level": 113,
+            "win": 905,
+            "draw": 3,
+            "lose": 603,
+            "bp": 1546,
+            "avatar": {
+                "id": "3CwCA0Roe4qh0phseDnhGN5gyggbPwJd",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 81,
+                "dress": "50",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 53,
+                "head": "71",
+                "arm_right": 42,
+                "arm_left": 117,
+                "face": null,
+                "other": "16_5_17"
+            }
+        },
+        "playerB": {
+            "name": "金色銀杏",
+            "level": 73,
+            "win": 453,
+            "draw": 17,
+            "lose": 374,
+            "bp": 1499,
+            "avatar": {
+                "id": "jTtFkW9Nv5Sq7NS6BRtndINoDQV2iAW3",
+                "base": 0,
+                "eye": 13,
+                "mouth": 2,
+                "hair": 71,
+                "dress": "96",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 106,
+                "head": "158",
+                "arm_right": 40,
+                "arm_left": null,
+                "face": null,
+                "other": "16"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc009",
+                "cc008",
+                "cc002"
+            ],
+            "charaIndex": [
+                86,
+                77,
+                18
+            ],
+            "weapon": [
+                null,
+                36,
+                188
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 65
+        },
+        "deckB": {
+            "chara": [
+                "cc007",
+                "cc012",
+                "cc026"
+            ],
+            "charaIndex": [
+                66,
+                117,
+                258
+            ],
+            "weapon": [
+                35,
+                48,
+                0
+            ],
+            "eventIndex": [
+                54,
+                2,
+                2,
+                54,
+                23,
+                23,
+                2,
+                2,
+                66,
+                23,
+                23,
+                23,
+                66,
+                91,
+                91,
+                44,
+                44,
+                44
+            ],
+            "cost": 65
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "000",
+        "friend": false,
+        "pass": false,
+        "cost": 65,
+        "date": 1744658965466,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14004
+    },
+    "dY05tmVXUAxm5MllxbL1JTeTLiT32Pd1": {
+        "room_id": "dY05tmVXUAxm5MllxbL1JTeTLiT32Pd1",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "MYKK",
+            "level": 48,
+            "win": 57,
+            "draw": 0,
+            "lose": 77,
+            "bp": 1397,
+            "avatar": {
+                "id": "Yo9AAZZkFDcwj6mfOZMJlCo6FlPdx73Y",
+                "base": 0,
+                "eye": 2,
+                "mouth": 2,
+                "hair": 78,
+                "dress": null,
+                "blouse": 27,
+                "skirt": 29,
+                "shoes": 50,
+                "head": "71",
+                "arm_right": 41,
+                "arm_left": 117,
+                "face": null,
+                "other": null
+            }
+        },
+        "playerB": {
+            "name": "金色銀杏",
+            "level": 73,
+            "win": 453,
+            "draw": 17,
+            "lose": 375,
+            "bp": 1484,
+            "avatar": {
+                "id": "jTtFkW9Nv5Sq7NS6BRtndINoDQV2iAW3",
+                "base": 0,
+                "eye": 13,
+                "mouth": 2,
+                "hair": 71,
+                "dress": "96",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 106,
+                "head": "158",
+                "arm_right": 40,
+                "arm_left": null,
+                "face": null,
+                "other": "16"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc018",
+                "cc007",
+                "cc011"
+            ],
+            "charaIndex": [
+                172,
+                64,
+                105
+            ],
+            "weapon": [
+                0,
+                9,
+                3
+            ],
+            "eventIndex": [
+                null,
+                null,
+                null,
+                39,
+                null,
+                null,
+                null,
+                null,
+                null,
+                39,
+                54,
+                null,
+                null,
+                54,
+                null,
+                null,
+                91,
+                91
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc009",
+                "cc027",
+                "cc006"
+            ],
+            "charaIndex": [
+                86,
+                263,
+                56
+            ],
+            "weapon": [
+                0,
+                0,
+                6
+            ],
+            "eventIndex": [
+                23,
+                23,
+                2,
+                23,
+                23,
+                23,
+                2,
+                2,
+                2,
+                23,
+                23,
+                23,
+                91,
+                91,
+                44,
+                23,
+                44,
+                44
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 1,
+        "readyB": 1,
+        "stage": "010",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744660099834,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14009
+    },
+    "kTiiUH9E9ivx1WOZBLFoWlcUZwZ7dDr9": {
+        "room_id": "kTiiUH9E9ivx1WOZBLFoWlcUZwZ7dDr9",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "SCID",
+            "level": 95,
+            "win": 3952,
+            "draw": 0,
+            "lose": 73,
+            "bp": 1500,
+            "avatar": {
+                "id": "AmklfMWfZ4W2WliNAaHz28mPe4se7gFS",
+                "base": 1,
+                "eye": 2,
+                "mouth": 0,
+                "hair": 82,
+                "dress": null,
+                "blouse": 30,
+                "skirt": 32,
+                "shoes": 106,
+                "head": "69_26",
+                "arm_right": 27,
+                "arm_left": null,
+                "face": 0,
+                "other": "3_2_1"
+            }
+        },
+        "playerB": {
+            "name": "刮刮刮窩",
+            "level": 47,
+            "win": 0,
+            "draw": 0,
+            "lose": 176,
+            "bp": 1500,
+            "avatar": {
+                "id": "jTP1URwYuwVyEgcKTi8RR9758KZkNiuW",
+                "base": 0,
+                "eye": 1,
+                "mouth": 0,
+                "hair": 45,
+                "dress": null,
+                "blouse": 0,
+                "skirt": 0,
+                "shoes": null,
+                "head": null,
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc011",
+                "cc003",
+                "cc001"
+            ],
+            "charaIndex": [
+                104,
+                23,
+                4
+            ],
+            "weapon": [
+                null,
+                12,
+                null
+            ],
+            "eventIndex": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc011",
+                "cc039",
+                "cc031"
+            ],
+            "charaIndex": [
+                105,
+                382,
+                302
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "001",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744664145142,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14003
+    },
+    "c61Q4MdUrJrdeyfDKkpyJd8zypgY2NH6": {
+        "room_id": "c61Q4MdUrJrdeyfDKkpyJd8zypgY2NH6",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "刮刮刮窩",
+            "level": 47,
+            "win": 0,
+            "draw": 0,
+            "lose": 177,
+            "bp": 1484,
+            "avatar": {
+                "id": "jTP1URwYuwVyEgcKTi8RR9758KZkNiuW",
+                "base": 0,
+                "eye": 1,
+                "mouth": 0,
+                "hair": 45,
+                "dress": null,
+                "blouse": 0,
+                "skirt": 0,
+                "shoes": null,
+                "head": null,
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "playerB": {
+            "name": "SCID",
+            "level": 95,
+            "win": 3953,
+            "draw": 0,
+            "lose": 73,
+            "bp": 1516,
+            "avatar": {
+                "id": "AmklfMWfZ4W2WliNAaHz28mPe4se7gFS",
+                "base": 1,
+                "eye": 2,
+                "mouth": 0,
+                "hair": 82,
+                "dress": null,
+                "blouse": 30,
+                "skirt": 32,
+                "shoes": 106,
+                "head": "69_26",
+                "arm_right": 27,
+                "arm_left": null,
+                "face": 0,
+                "other": "3_2_1"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc011",
+                "cc039",
+                "cc031"
+            ],
+            "charaIndex": [
+                105,
+                382,
+                302
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc011",
+                "cc003",
+                "cc001"
+            ],
+            "charaIndex": [
+                104,
+                23,
+                4
+            ],
+            "weapon": [
+                null,
+                12,
+                null
+            ],
+            "eventIndex": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "006",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744664208466,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14006
+    },
+    "SFEGL22g14PxXrLRVI3tGP4uHzuF4l1Z": {
+        "room_id": "SFEGL22g14PxXrLRVI3tGP4uHzuF4l1Z",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "臺灣獨立喵喵",
+            "level": 100,
+            "win": 1992,
+            "draw": 6,
+            "lose": 387,
+            "bp": 1618,
+            "avatar": {
+                "id": "0EiEDLBMSaYVzttnObWNvsOMBirK5sAL",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 75,
+                "dress": "15_73",
+                "blouse": 0,
+                "skirt": null,
+                "shoes": 48,
+                "head": "50_71",
+                "arm_right": 42,
+                "arm_left": null,
+                "face": 13,
+                "other": "15_3"
+            }
+        },
+        "playerB": {
+            "name": "Shley25",
+            "level": 14,
+            "win": 6,
+            "draw": 0,
+            "lose": 1,
+            "bp": 1500,
+            "avatar": {
+                "id": "w5TtK6GYbINNZbzi7mbaPUpoFukJnOtv",
+                "base": 2,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 44,
+                "dress": null,
+                "blouse": 0,
+                "skirt": 0,
+                "shoes": null,
+                "head": null,
+                "arm_right": null,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc030",
+                "cc027",
+                "cc026"
+            ],
+            "charaIndex": [
+                295,
+                263,
+                253
+            ],
+            "weapon": [
+                13,
+                188,
+                9
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                95,
+                91,
+                33,
+                23,
+                23,
+                23,
+                33,
+                39,
+                39,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc028",
+                "cc019",
+                "cc021"
+            ],
+            "charaIndex": [
+                275,
+                182,
+                202
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "003",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744667328668,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14004
+    },
+    "wkdQs0iEs26cd3tFYSFLyMYHly6TkRNL": {
+        "room_id": "wkdQs0iEs26cd3tFYSFLyMYHly6TkRNL",
+        "name": "Quickmatch [COST:53]",
+        "playerA": {
+            "name": "臺灣獨立喵喵",
+            "level": 100,
+            "win": 1993,
+            "draw": 6,
+            "lose": 387,
+            "bp": 1630,
+            "avatar": {
+                "id": "0EiEDLBMSaYVzttnObWNvsOMBirK5sAL",
+                "base": 0,
+                "eye": 2,
+                "mouth": 1,
+                "hair": 75,
+                "dress": "15_73",
+                "blouse": 0,
+                "skirt": null,
+                "shoes": 48,
+                "head": "50_71",
+                "arm_right": 42,
+                "arm_left": null,
+                "face": 13,
+                "other": "15_3"
+            }
+        },
+        "playerB": {
+            "name": "EXZXADW",
+            "level": 71,
+            "win": 15,
+            "draw": 0,
+            "lose": 646,
+            "bp": 1500,
+            "avatar": {
+                "id": "airddQ3hSQ7ucLyKdzl5sbqPL8kFt780",
+                "base": 0,
+                "eye": 6,
+                "mouth": 0,
+                "hair": 44,
+                "dress": "8",
+                "blouse": 0,
+                "skirt": null,
+                "shoes": 6,
+                "head": "28_2",
+                "arm_right": 38,
+                "arm_left": null,
+                "face": null,
+                "other": null
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc030",
+                "cc027",
+                "cc026"
+            ],
+            "charaIndex": [
+                295,
+                263,
+                253
+            ],
+            "weapon": [
+                13,
+                188,
+                9
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                95,
+                91,
+                33,
+                23,
+                23,
+                23,
+                33,
+                39,
+                39,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 53
+        },
+        "deckB": {
+            "chara": [
+                "cc011",
+                "cc007",
+                "cc004"
+            ],
+            "charaIndex": [
+                104,
+                62,
+                34
+            ],
+            "weapon": [
+                178,
+                null,
+                null
+            ],
+            "eventIndex": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "cost": 53
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "009",
+        "friend": false,
+        "pass": false,
+        "cost": 53,
+        "date": 1744669151521,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14002
+    }
+}

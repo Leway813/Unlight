@@ -1,0 +1,142 @@
+{
+    "pSs1QkUgGrY0Uetv6xS6TCX1o73BGbLe": {
+        "room_id": "pSs1QkUgGrY0Uetv6xS6TCX1o73BGbLe",
+        "name": "Quickmatch [COST:57]",
+        "playerA": {
+            "name": "玄雨居",
+            "level": 80,
+            "win": 30,
+            "draw": 0,
+            "lose": 165,
+            "bp": 1484,
+            "avatar": {
+                "id": "189jWJ4B0hmH9w2jaL7iDFJlaxHhts4e",
+                "base": 0,
+                "eye": 8,
+                "mouth": 0,
+                "hair": 38,
+                "dress": "10",
+                "blouse": null,
+                "skirt": null,
+                "shoes": 105,
+                "head": "23_68",
+                "arm_right": 39,
+                "arm_left": 117,
+                "face": null,
+                "other": "3"
+            }
+        },
+        "playerB": {
+            "name": "Meteor",
+            "level": 72,
+            "win": 536,
+            "draw": 4,
+            "lose": 317,
+            "bp": 1551,
+            "avatar": {
+                "id": "tWVzL4ZyOEvL3qRObLzPnXF9LbMY1Hfh",
+                "base": 0,
+                "eye": 11,
+                "mouth": 1,
+                "hair": 83,
+                "dress": null,
+                "blouse": 35,
+                "skirt": 37,
+                "shoes": 59,
+                "head": null,
+                "arm_right": 13,
+                "arm_left": null,
+                "face": 12,
+                "other": "17"
+            }
+        },
+        "deckA": {
+            "chara": [
+                "cc015",
+                "cc027",
+                "cc026"
+            ],
+            "charaIndex": [
+                146,
+                265,
+                253
+            ],
+            "weapon": [
+                12,
+                188,
+                null
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                80,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 57
+        },
+        "deckB": {
+            "chara": [
+                "cc032",
+                "cc005",
+                "cc030"
+            ],
+            "charaIndex": [
+                316,
+                43,
+                294
+            ],
+            "weapon": [
+                null,
+                null,
+                null
+            ],
+            "eventIndex": [
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23,
+                23
+            ],
+            "cost": 57
+        },
+        "rule": "ranked",
+        "ready": true,
+        "readyA": 0,
+        "readyB": 0,
+        "stage": "005",
+        "friend": false,
+        "pass": false,
+        "cost": 57,
+        "date": 1744706334212,
+        "pending": 1,
+        "disconnect": 0,
+        "port": 14004
+    }
+}

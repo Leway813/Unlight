@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "D:\Leway\OneDrive - 合航企業有限公司\Leway\公司檔案\7.Code\unlight\steam\data\import_to_db.py", line 14, in <module>
+    print("\u2705 成功連線到 MySQL")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp950' codec can't encode character '\u2705' in position 0: illegal multibyte sequence
+Traceback (most recent call last):
+  File "D:\Leway\OneDrive - 合航企業有限公司\Leway\公司檔案\7.Code\unlight\steam\data\import_to_db.py", line 14, in <module>
+    print("\u2705 成功連線到 MySQL")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp950' codec can't encode character '\u2705' in position 0: illegal multibyte sequence
+Traceback (most recent call last):
+  File "D:\Leway\OneDrive - 合航企業有限公司\Leway\公司檔案\7.Code\unlight\steam\data\import_to_db.py", line 14, in <module>
+    print("\u2705 成功連線到 MySQL")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp950' codec can't encode character '\u2705' in position 0: illegal multibyte sequence
+Traceback (most recent call last):
+  File "D:\Leway\OneDrive - 合航企業有限公司\Leway\公司檔案\7.Code\unlight\steam\data\import_to_db.py", line 14, in <module>
+    print("\u2705 成功連線到 MySQL")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp950' codec can't encode character '\u2705' in position 0: illegal multibyte sequence
