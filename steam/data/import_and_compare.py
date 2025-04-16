@@ -6,11 +6,11 @@ import shutil
 
 try:
     conn = mysql.connector.connect(
-        host="220.130.247.88",  # 或你的外部 IP //127.0.0.1
-        user="root",
-        password="Uve%12345",
-        database="leway_db",
-        port=3307
+        host="***.***.***.***",  # 或你的外部 IP //127.0.0.1
+        user="user",
+        password="password",
+        database="database",
+        port=port
     )
     print("✅ 成功連線到 MySQL")
     conn.close()
