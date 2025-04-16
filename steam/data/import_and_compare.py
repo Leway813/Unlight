@@ -3,30 +3,35 @@ import mysql.connector
 from pathlib import Path
 from datetime import datetime
 import shutil
+from dotenv import load_dotenv
+import os
+import pymysql
 
+load_dotenv()  # 讀取 .env
+
+db_config = {
+    "host": os.getenv("DB_HOST"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD"),
+    "database": os.getenv("DB_NAME"),
+    "port": int(os.getenv("DB_PORT")),
+    "charset": "utf8mb4",
+    "cursorclass": pymysql.cursors.DictCursor
+}
+
+# 正式連線
+db = pymysql.connect(**db_config)
+
+# 測試連線
 try:
-    conn = mysql.connector.connect(
-        host="220.130.247.88",  # 或你的外部 IP //127.0.0.1
-        user="root",
-        password="Uve%12345",
-        database="leway_db",
-        port=3307
-    )
+    conn = pymysql.connect(**db_config)
     print("✅ 成功連線到 MySQL")
     conn.close()
-except mysql.connector.Error as err:
+except pymysql.MySQLError as err:
     print("❌ 連線失敗：", err)
 
 
-# 資料庫連線設定
-db = mysql.connector.connect(
-    host="220.130.247.88",  # 或你的外部 IP //127.0.0.1
-    user="root",
-    password="Uve%12345",
-    database="leway_db",
-    port=3307
-)
-cursor = db.cursor(dictionary=True)
+cursor = db.cursor()  # ❌ 不要加 dictionary=True
 
 # JSON 路徑
 #json_path = Path("channel1_room.json")
@@ -55,7 +60,7 @@ def update_previous_match(name, win_now, draw_now, lose_now, room_id):
     cursor.execute("""
         SELECT * FROM arena_unlight
         WHERE (name_p1 = %s OR name_p2 = %s)
-          AND room_id != %s AND (ack1 = 0 OR ack2 = 0)
+          AND room_id != %s 
         ORDER BY update_time DESC LIMIT 1
     """, (name, name, room_id))
     prev = cursor.fetchone()
@@ -82,7 +87,7 @@ def update_previous_match(name, win_now, draw_now, lose_now, room_id):
             result = f"✅ 更新前一筆（{name}(負) VS {prev['name_p2']} ID {prev['id']}）"
     elif dd >= 1 and dw == 0 and dl == 0:
         cursor.execute("UPDATE arena_unlight SET tie=1, ack1=1, ack2=1 WHERE id=%s", (prev['id'],))
-        result = f"✅ 更新前一筆平手（{name} VS {prev['name_p1'] if prev['name_p2'] == name else prev['name_p2']} ID {prev['id']}）"
+        result = f"✅ 更新前一筆平手（{name} VS {prev['name_p1'] if prev['name_p2'] == name else prev['name_p2']} ID {prev['id']}）"    
     else:
         if prev['name_p1'] == name:
             cursor.execute("UPDATE arena_unlight SET ack1=1 WHERE id=%s", (prev['id'],))
@@ -116,18 +121,33 @@ for room in data_list.values():
 
     e = [x + 1 for x in room.get("deckA", {}).get("charaIndex", [-1, -1, -1])]
     u = [x + 1 for x in room.get("deckB", {}).get("charaIndex", [-1, -1, -1])]
+    w = room.get("deckA", {}).get("weapon", [None, None, None])
+    v = room.get("deckB", {}).get("weapon", [None, None, None])
+    eventindex1 =json.dumps(room.get("deckA", {}).get("eventIndex", []))
+    eventindex2 =json.dumps(room.get("deckB", {}).get("eventIndex", []))
+
 
     cursor.execute("""
         INSERT INTO arena_unlight (
-            room_id, name_p1, bp_p1, win_p1, draw_p1, lose_p1, e1, e2, e3,
-            name_p2, bp_p2, win_p2, draw_p2, lose_p2, u1, u2, u3,
-            update_time, username, ack1, ack2
-        ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s,
-                  %s, %s, %s, %s, %s, %s, %s, %s,
-                  %s, %s, 0, 0)
+            room_id,
+            name_p1, bp_p1, win_p1, draw_p1, lose_p1,
+            e1, e2, e3, w1, w2, w3, eventindex1,
+            name_p2, bp_p2, win_p2, draw_p2, lose_p2,
+            u1, u2, u3, v1, v2, v3, eventindex2,
+            update_time, username
+        ) VALUES (
+            %s, %s, %s, %s, %s, %s,
+            %s, %s, %s, %s, %s, %s, %s,
+            %s, %s, %s, %s, %s,
+            %s, %s, %s, %s, %s, %s, %s,
+            %s, %s
+        )
     """, (
-        room_id, nameA, bpA, winA, drawA, loseA, *e,
-        nameB, bpB, winB, drawB, loseB, *u,
+        room_id,
+        nameA, bpA, winA, drawA, loseA,
+        *e, *w, eventindex1,
+        nameB, bpB, winB, drawB, loseB,
+        *u, *v, eventindex2,
         update_time, "way.lee_py"
     ))
     inserted += 1
