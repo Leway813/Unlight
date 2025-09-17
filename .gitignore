@@ -79,3 +79,6 @@ steam/data/backup/
 *.log.env
 
 steam/data/.env
+
+get-pip.py
+steam/data/*[0-9].py
