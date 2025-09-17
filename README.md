@@ -9,13 +9,33 @@
 
 ## 專案結構
 
-- `steam/data/`：資料匯入腳本與 JSON 檔案
-- `database/`：資料庫結構 (`schema.sql`)
-- `icon/`：網站圖示（例如 `god.ico` 作為 favicon）
-- `arena_unlight`：資料庫主要表格
-- `ranking_bp.php` / `ranking_qp.php`：積分排行
-- `training.php`：角色訓練數據
-- `.env`：環境設定檔 (不進 Git，請參考 `.env.example`)
+```
+unlight/
+    icon/
+        god.ico
+    assets/
+        style.css
+        script.js
+    steam/
+        data/
+            .env.example
+            channel_watcher_unlight.py
+            import_and_compare.py
+            ranking_bp.json
+            ranking_qp.json
+    database/
+        schema.sql
+    bp/
+    qp/
+    README.md
+    .gitignore
+    config.php
+    settings.php
+    ranking_bp.php
+    ranking_qp.php
+    eventindex.php
+    weapon.php
+```
 
 ## 使用方法
 
