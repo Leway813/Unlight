@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Unlight 對戰紀錄系統 Banner" width="800"/>
+</p>
+
 # Unlight 對戰紀錄系統
 
 這是一個用於 **Unlight 遊戲分析** 的專案，功能包含：
