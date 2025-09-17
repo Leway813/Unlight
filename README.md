@@ -11,6 +11,8 @@
 - PHP + Bootstrap 前端顯示
 - 排行榜、角色資料、卡片資訊
 
+📌 Demo: [Unlight 排行榜系統](https://service.uve.com.tw/unlight/ranking.php)
+
 ## 專案結構
 
 ```
@@ -18,6 +20,7 @@ unlight/
     icon/
         god.ico
     assets/
+        banner.png
         style.css
         script.js
     steam/
@@ -41,23 +44,28 @@ unlight/
     weapon.php
 ```
 
+## 安裝需求 (Requirements)
+
+- PHP 7.4+
+- MySQL 5.7+ 或 MariaDB
+- Python 3.9+ (用於匯入腳本)
+- Composer / Node.js (若有前端依賴)
+
 ## 使用方法
 
-1. 複製專案
+1. 複製專案  
    ```bash
-   git clone git@github.com:Leway813/Unlight.git   
+   git clone git@github.com:Leway813/Unlight.git
    ```
 
-2.建立資料庫
-   ```mysql -u <user> -p unlight < database/schema.sql
+2. 建立資料庫  
+   ```bash
+   mysql -u <user> -p unlight < database/schema.sql
    ```
 
-3.建立環境檔案
-   ```cp steam/data/.env.example steam/data/.env
+3. 建立環境檔案  
+   ```bash
+   cp steam/data/.env.example steam/data/.env
    ```
 
-4.
-啟動服務器，並開啟瀏覽器查看排行榜與對戰紀錄
-yaml
-
----
+4. 啟動服務器，並開啟瀏覽器查看排行榜與對戰紀錄
