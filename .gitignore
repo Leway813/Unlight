@@ -37,6 +37,14 @@ qp/
 *.bat
 *.sh
 
+# 不需要的雜檔
+*.pyw
+*.bat
+*.txt
+*.ico
+steam/data/index.html
+install.txt
+
 # Python 暫存
 __pycache__/
 *.pyc
