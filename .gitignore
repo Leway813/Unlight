@@ -1,3 +1,72 @@
+# 環境檔案
+.env
+*.bat
+*.sh
+
+# Python 暫存
+__pycache__/
+*.pyc
+*.pyo
+
+# Node / Composer / 依賴
+node_modules/
+vendor/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 遊戲/專案產生檔
+steam/data/app.asar
+steam/data/*.xml
+steam/data/*.txt
+steam/data/*.json
+steam/data/*_backup/
+steam/data/*_history_backup/
+
+# 不需要版控的目錄
+bp/
+qp/
+
+# 其他不需要追蹤的檔案
+*.log
+*.tmp
+# 環境檔案
+.env
+*.bat
+*.sh
+
+# Python 暫存
+__pycache__/
+*.pyc
+*.pyo
+
+# Node / Composer / 依賴
+node_modules/
+vendor/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 遊戲/專案產生檔
+steam/data/app.asar
+steam/data/*.xml
+steam/data/*.txt
+steam/data/*.json
+steam/data/*_backup/
+steam/data/*_history_backup/
+
+# 不需要版控的目錄
+bp/
+qp/
+
+# 其他不需要追蹤的檔案
+*.log
+*.tmp
 uploads/
 steam/data/backup/
 *.log.env
+
