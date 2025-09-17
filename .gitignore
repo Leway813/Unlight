@@ -48,7 +48,6 @@ get-pip.py
 # 資料庫 Dump
 database/Dump*/
 
-# 其他不需要的雜檔
-*.ico
-*.pyw
-*.txt
+# 不需要的雜檔（限定路徑）
+steam/data/*.pyw
+steam/data/*.txt
