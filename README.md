@@ -45,20 +45,19 @@ unlight/
 
 1. 複製專案
    ```bash
-   git clone git@github.com:Leway813/Unlight.git
-建立資料庫
+   git clone git@github.com:Leway813/Unlight.git   
+   ```
 
-bash
-複製程式碼
-mysql -u <user> -p unlight < database/schema.sql
-建立環境檔案
+2.建立資料庫
+   ```mysql -u <user> -p unlight < database/schema.sql
+   ```
 
-bash
-複製程式碼
-cp steam/data/.env.example steam/data/.env
+3.建立環境檔案
+   ```cp steam/data/.env.example steam/data/.env
+   ```
+
+4.
 啟動服務器，並開啟瀏覽器查看排行榜與對戰紀錄
-
 yaml
-複製程式碼
 
 ---
