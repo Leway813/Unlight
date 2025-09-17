@@ -1,7 +1,10 @@
 # 環境檔案
 .env
-*.bat
+steam/data/.env
 *.sh
+
+# 批次檔
+*.bat
 
 # Python 暫存
 __pycache__/
@@ -20,52 +23,14 @@ desktop.ini
 # 遊戲/專案產生檔
 steam/data/app.asar
 steam/data/*.xml
-steam/data/*.txt
 steam/data/*.json
 steam/data/*_backup/
 steam/data/*_history_backup/
 
-# 不需要版控的目錄
-bp/
-qp/
-
-# 其他不需要追蹤的檔案
-*.log
-*.tmp
-# 環境檔案
-.env
-*.bat
-*.sh
-
-# 不需要的雜檔
-*.pyw
-*.bat
-*.txt
-*.ico
+# 遊戲專案雜檔
+steam/data/*.txt
+steam/data/*[0-9].py
 steam/data/index.html
-install.txt
-
-# Python 暫存
-__pycache__/
-*.pyc
-*.pyo
-
-# Node / Composer / 依賴
-node_modules/
-vendor/
-
-# 系統檔案
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# 遊戲/專案產生檔
-steam/data/app.asar
-steam/data/*.xml
-steam/data/*.txt
-steam/data/*.json
-steam/data/*_backup/
-steam/data/*_history_backup/
 
 # 不需要版控的目錄
 bp/
@@ -74,11 +39,11 @@ qp/
 # 其他不需要追蹤的檔案
 *.log
 *.tmp
+*.log.env
 uploads/
 steam/data/backup/
-*.log.env
-
-steam/data/.env
-
+install.txt
 get-pip.py
-steam/data/*[0-9].py
+
+# 資料庫 Dump
+database/Dump*/
