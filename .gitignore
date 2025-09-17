@@ -70,3 +70,4 @@ uploads/
 steam/data/backup/
 *.log.env
 
+steam/data/.env
